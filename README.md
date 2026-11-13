@@ -1,6 +1,4 @@
-# Shane Holmes
-
-AI automation engineer in Vernon, BC. I build agent systems that ship and run real products.
+# AI automation engineer. I build agent systems that ship and run real products.
 
 ## What I've built
 
